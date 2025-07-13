@@ -157,8 +157,6 @@ body {
 }
 
 .privacy-header h2::before {
-    content: '\f21b';
-    font-family: 'Font Awesome 6 Free';
     font-weight: 900;
     margin-right: 15px;
     background: linear-gradient(135deg, #667eea, #764ba2);
